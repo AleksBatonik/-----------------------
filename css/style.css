@@ -2,3 +2,6 @@
     width: 100%;
     
 }
+.nav_list {
+    list-style: none;
+}
